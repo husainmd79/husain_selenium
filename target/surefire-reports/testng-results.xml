@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T00:51:23 EST" name="Surefire suite" finished-at="2023-12-28T00:53:13 EST" duration-ms="109776">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T00:51:23 EST" name="Surefire test" finished-at="2023-12-28T00:53:13 EST" duration-ms="109776">
+      <class name="com.AllTest_Selenium.Test_WebTable">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_WebTable@34b7ac2f]" started-at="2023-12-28T00:52:55 EST" name="setUp" finished-at="2023-12-28T00:52:58 EST" duration-ms="3104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="handle_WebTable()[pri:0, instance:com.AllTest_Selenium.Test_WebTable@34b7ac2f]" started-at="2023-12-28T00:52:58 EST" name="handle_WebTable" finished-at="2023-12-28T00:52:59 EST" duration-ms="999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handle_WebTable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_WebTable@34b7ac2f]" started-at="2023-12-28T00:52:59 EST" name="tearDown" finished-at="2023-12-28T00:52:59 EST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_WebTable -->
+      <class name="com.AllTest_Selenium.Test_ActionClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_ActionClass@4a22f9e2]" started-at="2023-12-28T00:51:23 EST" name="setUp" finished-at="2023-12-28T00:51:27 EST" duration-ms="3833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="mouseHoover()[pri:0, instance:com.AllTest_Selenium.Test_ActionClass@4a22f9e2]" started-at="2023-12-28T00:51:27 EST" name="mouseHoover" finished-at="2023-12-28T00:51:28 EST" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseHoover -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_ActionClass@4a22f9e2]" started-at="2023-12-28T00:51:28 EST" name="tearDown" finished-at="2023-12-28T00:51:28 EST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_ActionClass -->
+      <class name="com.AllTest_Selenium.Test_BoostrapDropDown">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_BoostrapDropDown@3e92efc3]" started-at="2023-12-28T00:51:54 EST" name="setUp" finished-at="2023-12-28T00:51:57 EST" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dropDown_Test()[pri:0, instance:com.AllTest_Selenium.Test_BoostrapDropDown@3e92efc3]" started-at="2023-12-28T00:51:57 EST" name="dropDown_Test" finished-at="2023-12-28T00:51:57 EST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_BoostrapDropDown@3e92efc3]" started-at="2023-12-28T00:51:57 EST" name="tearDown" finished-at="2023-12-28T00:51:57 EST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_BoostrapDropDown -->
+      <class name="com.AllTest_Selenium.Test_AlertWithOk">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_AlertWithOk@703580bf]" started-at="2023-12-28T00:51:28 EST" name="setUp" finished-at="2023-12-28T00:51:47 EST" duration-ms="18638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="alert_With_Ok()[pri:0, instance:com.AllTest_Selenium.Test_AlertWithOk@703580bf]" started-at="2023-12-28T00:51:47 EST" name="alert_With_Ok" finished-at="2023-12-28T00:51:53 EST" duration-ms="6571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert_With_Ok -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_AlertWithOk@703580bf]" started-at="2023-12-28T00:51:53 EST" name="tearDown" finished-at="2023-12-28T00:51:54 EST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_AlertWithOk -->
+      <class name="com.AllTest_Selenium.Test_DataDrivernTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_DataDrivernTest@1622f1b]" started-at="2023-12-28T00:51:57 EST" name="setUp" finished-at="2023-12-28T00:52:01 EST" duration-ms="3156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Register_Test(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.AllTest_Selenium.Test_DataDrivernTest@1622f1b]" started-at="2023-12-28T00:52:02 EST" name="Register_Test" data-provider="n" finished-at="2023-12-28T00:52:03 EST" duration-ms="854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[md]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[husain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_Test -->
+        <test-method signature="Register_Test(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.AllTest_Selenium.Test_DataDrivernTest@1622f1b]" started-at="2023-12-28T00:52:03 EST" name="Register_Test" data-provider="n" finished-at="2023-12-28T00:52:04 EST" duration-ms="966" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abir]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ahmed]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc@yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_Test -->
+        <test-method signature="Register_Test(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.AllTest_Selenium.Test_DataDrivernTest@1622f1b]" started-at="2023-12-28T00:52:04 EST" name="Register_Test" data-provider="n" finished-at="2023-12-28T00:52:05 EST" duration-ms="1190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sabrina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hussain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[lmn@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_DataDrivernTest@1622f1b]" started-at="2023-12-28T00:52:05 EST" name="tearDown" finished-at="2023-12-28T00:52:05 EST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_DataDrivernTest -->
+      <class name="com.AllTest_Selenium.Test_TextValidation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_TextValidation@6e4784bc]" started-at="2023-12-28T00:52:52 EST" name="setUp" finished-at="2023-12-28T00:52:55 EST" duration-ms="3108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="textValidation()[pri:0, instance:com.AllTest_Selenium.Test_TextValidation@6e4784bc]" started-at="2023-12-28T00:52:55 EST" name="textValidation" finished-at="2023-12-28T00:52:55 EST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_TextValidation@6e4784bc]" started-at="2023-12-28T00:52:55 EST" name="tearDown" finished-at="2023-12-28T00:52:55 EST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_TextValidation -->
+      <class name="com.AllTest_Selenium.Test_DatePicker">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_DatePicker@72a7c7e0]" started-at="2023-12-28T00:52:05 EST" name="setUp" finished-at="2023-12-28T00:52:13 EST" duration-ms="8013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDate()[pri:0, instance:com.AllTest_Selenium.Test_DatePicker@72a7c7e0]" started-at="2023-12-28T00:52:13 EST" name="testDate" finished-at="2023-12-28T00:52:15 EST" duration-ms="2100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_DatePicker@72a7c7e0]" started-at="2023-12-28T00:52:15 EST" name="tearDown" finished-at="2023-12-28T00:52:16 EST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_DatePicker -->
+      <class name="com.AllTest_Selenium.Test_JavascriptExecutor">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:40 EST" name="setUp" finished-at="2023-12-28T00:52:43 EST" duration-ms="3059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DrawBorderByJs()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:43 EST" name="DrawBorderByJs" finished-at="2023-12-28T00:52:43 EST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DrawBorderByJs -->
+        <test-method signature="clickElementByJs()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:43 EST" name="clickElementByJs" finished-at="2023-12-28T00:52:44 EST" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickElementByJs -->
+        <test-method signature="getTitleByJs()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:44 EST" name="getTitleByJs" finished-at="2023-12-28T00:52:44 EST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleByJs -->
+        <test-method signature="refreshByJs()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:44 EST" name="refreshByJs" finished-at="2023-12-28T00:52:45 EST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refreshByJs -->
+        <test-method signature="scrollDownPage()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:45 EST" name="scrollDownPage" finished-at="2023-12-28T00:52:45 EST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownPage -->
+        <test-method signature="scrollPageDown()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:45 EST" name="scrollPageDown" finished-at="2023-12-28T00:52:45 EST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollPageDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_JavascriptExecutor@29626d54]" started-at="2023-12-28T00:52:45 EST" name="tearDown" finished-at="2023-12-28T00:52:45 EST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_JavascriptExecutor -->
+      <class name="com.AllTest_Selenium.Test_GetText">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_GetText@17046283]" started-at="2023-12-28T00:52:26 EST" name="setUp" finished-at="2023-12-28T00:52:29 EST" duration-ms="3265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getText_test()[pri:0, instance:com.AllTest_Selenium.Test_GetText@17046283]" started-at="2023-12-28T00:52:29 EST" name="getText_test" finished-at="2023-12-28T00:52:29 EST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getText_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_GetText@17046283]" started-at="2023-12-28T00:52:29 EST" name="tearDown" finished-at="2023-12-28T00:52:29 EST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_GetText -->
+      <class name="com.AllTest_Selenium.WindowHandel_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.WindowHandel_Test@e056f20]" started-at="2023-12-28T00:52:59 EST" name="setUp" finished-at="2023-12-28T00:53:04 EST" duration-ms="4679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="window_Test()[pri:0, instance:com.AllTest_Selenium.WindowHandel_Test@e056f20]" started-at="2023-12-28T00:53:04 EST" name="window_Test" finished-at="2023-12-28T00:53:12 EST" duration-ms="8299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.WindowHandel_Test@e056f20]" started-at="2023-12-28T00:53:12 EST" name="tearDown" finished-at="2023-12-28T00:53:13 EST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.WindowHandel_Test -->
+      <class name="com.AllTest_Selenium.Test_DragNDrop">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_DragNDrop@2e4b8173]" started-at="2023-12-28T00:52:16 EST" name="setUp" finished-at="2023-12-28T00:52:20 EST" duration-ms="4081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dragAndDrop()[pri:0, instance:com.AllTest_Selenium.Test_DragNDrop@2e4b8173]" started-at="2023-12-28T00:52:20 EST" name="dragAndDrop" finished-at="2023-12-28T00:52:21 EST" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_DragNDrop@2e4b8173]" started-at="2023-12-28T00:52:21 EST" name="tearDown" finished-at="2023-12-28T00:52:21 EST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_DragNDrop -->
+      <class name="com.AllTest_Selenium.Test_PermissionAuthentication">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_PermissionAuthentication@5a63f509]" started-at="2023-12-28T00:52:45 EST" name="setUp" finished-at="2023-12-28T00:52:51 EST" duration-ms="5877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="handleAuthentication()[pri:0, instance:com.AllTest_Selenium.Test_PermissionAuthentication@5a63f509]" started-at="2023-12-28T00:52:51 EST" name="handleAuthentication" finished-at="2023-12-28T00:52:51 EST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAuthentication -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.AllTest_Selenium.Test_PermissionAuthentication@5a63f509]" started-at="2023-12-28T00:52:51 EST" name="teardown" finished-at="2023-12-28T00:52:52 EST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.AllTest_Selenium.Test_PermissionAuthentication -->
+      <class name="com.AllTest_Selenium.Test_DropDown">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_DropDown@70e8f8e]" started-at="2023-12-28T00:52:21 EST" name="setUp" finished-at="2023-12-28T00:52:24 EST" duration-ms="3229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dropDown_test()[pri:0, instance:com.AllTest_Selenium.Test_DropDown@70e8f8e]" started-at="2023-12-28T00:52:24 EST" name="dropDown_test" finished-at="2023-12-28T00:52:25 EST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_DropDown@70e8f8e]" started-at="2023-12-28T00:52:25 EST" name="tearDown" finished-at="2023-12-28T00:52:26 EST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_DropDown -->
+      <class name="com.AllTest_Selenium.Test_InputBoxAndRandomEmail">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.AllTest_Selenium.Test_InputBoxAndRandomEmail@5bd03f44]" started-at="2023-12-28T00:52:29 EST" name="setUp" finished-at="2023-12-28T00:52:32 EST" duration-ms="3137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="randomNumber()[pri:1, instance:com.AllTest_Selenium.Test_InputBoxAndRandomEmail@5bd03f44]" started-at="2023-12-28T00:52:32 EST" name="randomNumber" finished-at="2023-12-28T00:52:38 EST" duration-ms="5917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomNumber -->
+        <test-method signature="testRandomEmail()[pri:2, instance:com.AllTest_Selenium.Test_InputBoxAndRandomEmail@5bd03f44]" started-at="2023-12-28T00:52:38 EST" name="testRandomEmail" finished-at="2023-12-28T00:52:39 EST" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRandomEmail -->
+        <test-method signature="randomCity()[pri:3, instance:com.AllTest_Selenium.Test_InputBoxAndRandomEmail@5bd03f44]" started-at="2023-12-28T00:52:39 EST" name="randomCity" finished-at="2023-12-28T00:52:40 EST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomCity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AllTest_Selenium.Test_InputBoxAndRandomEmail@5bd03f44]" started-at="2023-12-28T00:52:40 EST" name="tearDown" finished-at="2023-12-28T00:52:40 EST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AllTest_Selenium.Test_InputBoxAndRandomEmail -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

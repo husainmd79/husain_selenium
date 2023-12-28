@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.utilityFile.MyReports"/>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.AllTest_Selenium.Test_DropDown"/>
+      <class name="com.AllTest_Selenium.Test_AlertWithOk"/>
+      <class name="com.AllTest_Selenium.Test_DataDrivernTest"/>
+      <class name="com.AllTest_Selenium.WindowHandel_Test"/>
+      <class name="com.AllTest_Selenium.HandleAlert"/>
+      <class name="com.AllTest_Selenium.Test_DragNDrop"/>
+      <class name="com.AllTest_Selenium.Test_JavascriptExecutor"/>
+      <class name="com.AllTest_Selenium.Test_GetText"/>
+      <class name="com.AllTest_Selenium.Test_BoostrapDropDown"/>
+      <class name="com.AllTest_Selenium.Test_InputBoxAndRandomEmail"/>
+      <class name="com.AllTest_Selenium.Test_PermissionAuthentication"/>
+      <class name="com.AllTest_Selenium.Test_WebTable"/>
+      <class name="com.AllTest_Selenium.ClickRegister"/>
+      <class name="com.AllTest_Selenium.Test_ActionClass"/>
+      <class name="com.AllTest_Selenium.Test_TextValidation"/>
+      <class name="com.AllTest_Selenium.Test_DatePicker"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
